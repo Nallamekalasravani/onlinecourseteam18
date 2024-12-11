@@ -1,0 +1,11 @@
+[33mcommit 5da052a508a66d1363d245d63c264e911c900d56[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nallamekalasravani <2200030248@kluniversity.in>
+Date:   Wed Dec 11 18:52:58 2024 +0530
+
+    v1.0
+
+[33mcommit 8817565df7155846a6368110e0019a1375dbbd45[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Nallamekalasravani <2200030248@kluniversity.in>
+Date:   Tue Dec 10 14:07:06 2024 +0530
+
+    Add .gitattributes to enforce line endings
